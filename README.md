@@ -1,21 +1,17 @@
-# Azure Voting App
+# Microsoft Azure Web Sites Cheat Sheet
 
-This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster. The application interface has been built using Python / Flask. The data component is using Redis.
+Microsoft Azure Web Sites Cheat Sheet is a collection of lesser known uses of [Microsoft Azure Web Sites](http://www.windowsazure.com/en-us/home/scenarios/web-sites/).
 
-To walk through a quick deployment of this application, see the AKS [quick start](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough).
+## Overview
 
-To walk through a complete experience where this code is packaged into container images, uploaded to Azure Container Registry, and then run in and AKS cluster, see the [AKS tutorials](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app).
+This is the GitHub Pages repository for the _Microsoft Azure Web Sites Cheat Sheet_ project.
 
-## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+## Who
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+My name is [Cory Fowler](http://blog.syntaxc4.net). I am a Microsoft Azure Evangelist. 
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## License
+
+See [License](https://github.com/SyntaxC4/WindowsAzureWebSitesCheatSheet/blob/gh-pages/LICENSE).
+
