@@ -1,3 +1,0 @@
-select candidate_name, count(*) from vote where post_name="President" group by candidate_name;
-
-
